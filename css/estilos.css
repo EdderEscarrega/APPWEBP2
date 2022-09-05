@@ -1,0 +1,52 @@
+
+*{ font-family: Verdana;
+
+}
+
+body{
+    font-family:Verdana;
+}
+
+td, th{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+h1{
+    font-size: 20px;
+    color:#333;
+}
+h2{
+    font: size 16px;
+    color:#666;
+}
+li{
+    font:12px;
+    color:blue;
+}
+caption{
+    text-align: center;
+}
+thead{
+    background-color:#666;
+}
+tfoot{
+    background-color: #ccc;
+}
+tbody{
+    background-color: #fff;
+}
+
+table{
+    border:1px solid black;
+    
+}
+
+.titulotabla{
+    color: white;
+}
+
+#imagen{
+    width: 400px;
+    height: 200px;
+}
